@@ -1,4 +1,4 @@
-# This is a Medical Device Simulator for a Temperature Sensor
+# This is a Medical Device Simulator for a Temperature Sensor for human body temperature and will alert when temperature exceeds 39.42C
 
 A cross-language demonstration of **Object-Oriented Programming** and **applications/embedded software development** using **Python** 
 
