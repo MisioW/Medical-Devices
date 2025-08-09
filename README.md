@@ -40,8 +40,8 @@ Sensor T1 Log: [37.82, 39.42, 36.15, ...]
 ---
 
 ## Author
-**Michael Wynar**  
-📧 wynarmichael@gmail.com  
-📱 303-478-3974  
-📍 Morrison, CO  
-🔗 [LinkedIn](https://www.linkedin.com/in/michael-wynar-6525a2375/)
+Michael Wynar 
+wynarmichael@gmail.com  
+303-478-3974  
+Morrison, CO  
+[LinkedIn](https://www.linkedin.com/in/michael-wynar-6525a2375/)
